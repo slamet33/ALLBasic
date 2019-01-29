@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALLBasic</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <!--Tambahkan Array List -->
+    <string-array name="hewan">
+        <item>Anjing</item>
+        <item>Ayam</item>
+        <item>Babi</item>
+        <item>Bebek</item>
+        <item>Burung Hantu</item>
+    </string-array>
+    <string name="title_activity_gambar">GambarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">List</string>
+    <string name="title_notifications">Browser</string>
+
+
+</resources>
